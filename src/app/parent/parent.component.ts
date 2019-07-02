@@ -1,6 +1,6 @@
 import { Component, OnInit, Input } from '@angular/core';
 import * as c3 from 'c3';
-import { MatDialog } from '@angular/material/dialog';
+import { MatDialog } from '@angular/material';
 import { ActivatedRoute } from '@angular/router';
 import { ModalComponent } from '../modal/modal.component';
 @Component({
